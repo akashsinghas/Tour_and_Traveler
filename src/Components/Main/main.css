@@ -117,6 +117,7 @@
   font-size: 13.5px;
   color: var(--textColor);
   font-weight: 500;
+  min-height: 200px;
 }
 .main .seeContent .singleDestination .cardInfo .btn {
   margin-top: 1rem;

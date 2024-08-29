@@ -75,7 +75,7 @@ const Data=[
     location:'North America',
     grade:'Cultural RELAX',
     fees:'$750',
-    description:"Costa Rica, a Catholic country in Central America, shares its borders with Nicaragua and Panama. It has the Pacific Ocean to the west and Carribean Coast to the East. Dominated by Roman Catholics, it is a secular country and respects all religions. Costa Ricans or the people living in the country are called Ticos. The country is known for a variety of wildlife, distinct culture and plethora of adventure activities.",
+    description:"Costa Rica, a Catholic country in Central America, shares its borders with Nicaragua and Panama. It has the Pacific Ocean to the west and Carribean Coast to the East. Costa Ricans or the people living in the country are called Ticos. The country is known for a variety of wildlife, distinct culture and plethora of adventure activities.",
 
   },
   {

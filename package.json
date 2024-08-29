@@ -1,5 +1,6 @@
 {
   "name": "tour_and_travel",
+  "homepage": "https://akashsinghas.github.io/tour_and_traveler",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
