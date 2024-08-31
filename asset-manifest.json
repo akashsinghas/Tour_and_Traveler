@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tour_and_traveler/static/css/main.a489bacf.css",
-    "main.js": "/tour_and_traveler/static/js/main.b5b3d4c4.js",
+    "main.css": "/tour_and_traveler/static/css/main.c6b741ee.css",
+    "main.js": "/tour_and_traveler/static/js/main.6ce51914.js",
     "static/media/videoFooter.mp4": "/tour_and_traveler/static/media/videoFooter.614e06fd461fbfa1053d.mp4",
     "static/media/topVideo.mp4": "/tour_and_traveler/static/media/topVideo.3c1eaa71f08be2c6f273.mp4",
     "static/media/tajMahal.jpg": "/tour_and_traveler/static/media/tajMahal.eea6a6285763f2f90103.jpg",
@@ -15,11 +15,11 @@
     "static/media/sydney.jpg": "/tour_and_traveler/static/media/sydney.93971272c60e311fedb0.jpg",
     "static/media/sanFrancisco.jpg": "/tour_and_traveler/static/media/sanFrancisco.105f44eca4bb6056db96.jpg",
     "index.html": "/tour_and_traveler/index.html",
-    "main.a489bacf.css.map": "/tour_and_traveler/static/css/main.a489bacf.css.map",
-    "main.b5b3d4c4.js.map": "/tour_and_traveler/static/js/main.b5b3d4c4.js.map"
+    "main.c6b741ee.css.map": "/tour_and_traveler/static/css/main.c6b741ee.css.map",
+    "main.6ce51914.js.map": "/tour_and_traveler/static/js/main.6ce51914.js.map"
   },
   "entrypoints": [
-    "static/css/main.a489bacf.css",
-    "static/js/main.b5b3d4c4.js"
+    "static/css/main.c6b741ee.css",
+    "static/js/main.6ce51914.js"
   ]
 }
